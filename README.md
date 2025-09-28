@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your vahan Bazar project
 
 ## Project info
 
@@ -56,9 +56,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/f61f652d-a07e-4d13-ae7e-3e66159a8098) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
